@@ -3,4 +3,4 @@
 
 Avant de commencer la réalisation du jeu, nous avons prosuit le Game Design Document ci-dessous en utilisant le framework Octalysis.
 
-![Octalysis Analysis](Octalysis Analysis.png)
+![Octalysis Analysis](OctalysisAnalysis.png)
